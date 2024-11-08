@@ -4,3 +4,8 @@ if (condition) {
 } else {
     console.log(2)
 }
+
+let isOn = true;
+if (isOn === true) {
+    console.log("Wow!")
+}
