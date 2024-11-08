@@ -21,4 +21,8 @@ let isSubscribed = true;
 if (isSubscribed === true) {
     console.log("This is true!")
 } else {
-    console.log("This is false!")}
+    console.log("This is false!")};
+
+let isSubscribed2 = false;
+if (isSubscribed2 !== false){
+    console.log("This will probably show up as true!")};
