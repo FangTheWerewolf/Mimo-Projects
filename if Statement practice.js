@@ -16,3 +16,9 @@ if (number === 1) {
 } else {
     console.log("It's not 1");
 }
+
+let isSubscribed = true;
+if (isSubscribed === true) {
+    console.log("This is true!")
+} else {
+    console.log("This is false!")}
