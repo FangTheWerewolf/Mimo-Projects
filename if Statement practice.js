@@ -9,3 +9,10 @@ let isOn = true;
 if (isOn === true) {
     console.log("Wow!")
 }
+
+let number = 99;
+if (number === 1) {
+    console.log("It's 1")
+} else {
+    console.log("It's not 1");
+}
