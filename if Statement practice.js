@@ -76,3 +76,12 @@ if (score > 90) {
 } else {
     console.log("Better luck next time!")
 }
+
+let age = 10;
+if (age <= 12) {
+    console.log("Where are your parents?");
+} else if (age < 17) {
+    console.log("You're too young to take this ride.");
+} else if (age >= 17) {
+    console.log("Welcome!");
+}
