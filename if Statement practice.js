@@ -53,3 +53,10 @@ if (hour < 12) {
 } else {
     console.log("Good night!");
 }
+
+let number = 0;
+if (number , 5) {
+    console.log("Less than five");
+} else if (number < 10) {
+    console.log("Less than ten");
+}
