@@ -92,3 +92,13 @@ if (topping === "pinnaple") {
 } else if (topping === "pepperoni") {
     console.log("Request accepted.");
 }
+
+let topping ="mushrooms";
+if (topping === "pineapple" {
+    console.log("Request denied");
+} else if (topping === "pepperoni") {
+    console.log("request accepted.");
+} else {
+    console.log("Could not process request.");
+}
+
