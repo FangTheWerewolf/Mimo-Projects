@@ -25,4 +25,11 @@ if (isSubscribed === true) {
 
 let isSubscribed2 = false;
 if (isSubscribed2 !== false){
-    console.log("This will probably show up as true!")};
+    console.log("This will probably show up as true!")
+
+let hour = 14;
+if (hour < 12) {
+    console.log("Good morning!")
+} else if (hour = 17) [
+    console.log("Good afternoon!")
+]
