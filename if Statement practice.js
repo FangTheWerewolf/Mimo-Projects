@@ -60,3 +60,10 @@ if (number , 5) {
 } else if (number < 10) {
     console.log("Less than ten");
 }
+
+let score = 75;
+if (score > 70 && score < 90) {
+    console.log("You passed!");
+} else if (score >= 90) {
+    console.log("You get an A!")
+}
