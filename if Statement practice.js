@@ -85,3 +85,10 @@ if (age <= 12) {
 } else if (age >= 17) {
     console.log("Welcome!");
 }
+
+let topping = "pepperoni";
+if (topping === "pinnaple") {
+    console.log("Request denied.");
+} else if (topping === "pepperoni") {
+    console.log("Request accepted.");
+}
