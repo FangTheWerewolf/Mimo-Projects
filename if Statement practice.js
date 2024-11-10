@@ -67,3 +67,12 @@ if (score > 70 && score < 90) {
 } else if (score >= 90) {
     console.log("You get an A!")
 }
+
+let score = 75;
+if (score > 90) {
+    console.log("You get an A!");
+} else if (score > 80) {
+    console.log("You get a B!");
+} else {
+    console.log("Better luck next time!")
+}
