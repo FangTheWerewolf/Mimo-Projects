@@ -65,7 +65,7 @@ let score = 75;
 if (score > 70 && score < 90) {
     console.log("You passed!");
 } else if (score >= 90) {
-    console.log("You get an A!")
+    console.log("You get an A!")            
 }
 
 let score = 75;
