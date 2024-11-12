@@ -8,3 +8,9 @@ function weatherUpdate() {
     console.log("Sunny skies ahead");
 }
 weatherUpdate();
+
+function nightRoutine() {
+    console.log("Lights off");
+    console.log("Alarm set");
+}
+nightRoutine{}
