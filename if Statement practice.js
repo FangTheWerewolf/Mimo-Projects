@@ -102,3 +102,8 @@ if (topping === "pineapple" {
     console.log("Could not process request.");
 }
 
+let membership = "gold";
+if (membership === "gold") {
+} else {
+
+}
