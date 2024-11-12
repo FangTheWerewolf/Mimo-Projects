@@ -107,3 +107,18 @@ if (membership === "gold") {
 } else {
 
 }
+
+let madMeter = 79
+let madScientist = "Dexter";
+if (madMeter >= 134) {
+    console.log("Madness achieved!");
+} else {
+    console.log("Sorry, " + madScientist + ", not mad enough");
+}
+
+let oilFluid = 50;
+if (oilFluid === 50){
+    console.log("Ready to race!");
+} else {
+    console.log("Not today!");
+}
